@@ -1,2 +1,10 @@
-# calculator
-simple mathematic operations
+# Calculator
+
+Простая утилита для выполнения арифметических операций.
+
+## Установка
+
+Установите утилиту с помощью pip:
+
+```bash
+pip install calculator
