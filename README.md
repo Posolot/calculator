@@ -44,11 +44,11 @@
 
 Затем запустите тесты с помощью `pytest`:
 
-    ```bash
+    ``bash
     pytest
     ```
 
 ## Автор
 
-[Your Name](https://github.com/Posolot)
+[Posolot](https://github.com/Posolot)
 
