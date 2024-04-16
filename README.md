@@ -20,7 +20,7 @@
 
     ```bash
     python setup.py install
-    //pip install .
+    pip install . #использовать для системы без conda
     ```
 
 ## Использование
