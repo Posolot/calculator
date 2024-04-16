@@ -38,13 +38,13 @@ calculator
 Для запуска тестов, установите дополнительные зависимости из файла `requirements.txt`:
 
 ```bash
-    pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 Затем запустите тесты с помощью `pytest`:
 
 ```bash
-    pytest
+pytest
 ```
 
 ## Автор
