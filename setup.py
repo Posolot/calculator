@@ -8,9 +8,10 @@ setup(
     author_email='saharokbro@mail.ru',
     url='https://github.com/Posolot/calculator',
     packages=find_packages(),
-    entry_points={
-        'console_scripts': [
-            'calculator = calculator:main',
+    extras_require={
+        'test': [
+            'pytest',
+            'coverage',
         ],
     },
     python_requires='>=3.6',
