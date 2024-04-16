@@ -28,6 +28,7 @@
 
 Пример использования:
 ```bash
+cd main
 python calculator.py
 ```
 
