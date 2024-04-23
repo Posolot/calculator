@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='Calculator',
+    name='calculator',
     version='1.0',
     description='Utility for performing simple mathematical operations',
     author='Ilya Kuzmin',
