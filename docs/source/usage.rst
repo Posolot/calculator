@@ -13,8 +13,6 @@ To use Calculator, first install it using pip:
    (.venv) $ pip install calculator
 
 
-.. autoexception:: lumache.InvalidKindError
-
 For example:
 
 .. code-block:: console
