@@ -1,5 +1,5 @@
 Welcome to Calculator documentation!
-===================================
+====================================
 
 **Calculator** (/lu'make/) is a Python programm for cooks and food lovers
 that creates recipes mixing random ingredients.
