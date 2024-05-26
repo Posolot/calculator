@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Welcome to Calculator documentation!
 ===================================
 
 **Calculator** (/lu'make/) is a Python programm for cooks and food lovers
